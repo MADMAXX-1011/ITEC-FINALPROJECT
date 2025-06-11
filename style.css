@@ -147,8 +147,8 @@ nav ul li a:hover {
 }
 
 .hero-right2 a:hover {
-  transform: scale (1.2);
-  color: deeppink;
+  transform: scale(1.2);
+  color: #ff1493;
 }
 
 .about-container {
@@ -492,7 +492,7 @@ footer {
  }
   .hero-right2 a:hover {
   transform: scale(1.2);
-  color: deeppink;
+  color: #ff1493;
 }
   }
 
