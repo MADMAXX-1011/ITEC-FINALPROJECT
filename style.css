@@ -249,7 +249,10 @@ display: flex;
   transform: scale(1.2);
   color: #00f7ff;
 }
-
+.hero-right2 a:hover {
+  transform: scale(1.2);
+  color: deeppink;
+}
 .projects {
   padding: 4rem 2rem;
   text-align: center;
@@ -488,7 +491,7 @@ footer {
  color: deepskyblue
  }
   .hero-right2 a:hover {
-  transform: scale (1.2);
+  transform: scale(1.2);
   color: deeppink;
 }
   }
