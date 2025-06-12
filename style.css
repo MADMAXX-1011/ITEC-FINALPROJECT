@@ -500,13 +500,14 @@ footer {
      width: 100%;
     margin-bottom: 1rem;
     padding: 3rem; 
+    align-items: center;
   }
   
   .projects-grid {
     gap: 1rem;
   }
   .project-card {
-    width: 80%; 
+    width: 100%; 
+    align-items: center;
   }
 }
-
