@@ -495,4 +495,18 @@ footer {
   color: #ff1493;
 }
   }
+@media (max-width: 568px) {
+  .card{
+     width: 100%;
+    margin-bottom: 1rem;
+    padding: 3rem; 
+  }
+  
+  .projects-grid {
+    gap: 1rem;
+  }
+  .project-card {
+    width: 80%; 
+  }
+}
 
